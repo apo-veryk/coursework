@@ -13,6 +13,14 @@ pip install -r requirements.txt
 ![Power BI](https://img.shields.io/badge/Power%20BI-Analysis-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Queries-orange)
 
+## Features
+
+- Data cleaning and preprocessing for public datasets
+- Exploratory data analysis on Chicago public schools, crime, and census data
+- Correlation study between crime rates and public school performance
+- Power BI visualizations for easy interpretation of trends
+
+
 Chicago Public Datasets Project
 Project Overview
 This project aims to analyze various public datasets related to the City of Chicago, including public schools, crime rates, and census data. By cleaning and organizing these datasets, the goal is to uncover insights into how different factors, such as educational institutions and census statistics, correlate with crime rates across different areas in Chicago.

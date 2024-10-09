@@ -1,4 +1,17 @@
 # coursework
+# Chicago Public Datasets Project
+git clone https://github.com/apo-veryk/ChicagoPublicDatasetsProject.git 
+python your_script.py
+pip install -r requirements.txt
+## Future Work
+
+- Integrate more datasets (e.g., employment data, healthcare data)
+- Conduct more advanced statistical analyses (e.g., predictive modeling)
+- Automate the process of downloading and cleaning datasets with APIs
+
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analysis-yellow)
+![SQL](https://img.shields.io/badge/SQL-Data%20Queries-orange)
 
 Chicago Public Datasets Project
 Project Overview
